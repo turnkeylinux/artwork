@@ -54,9 +54,9 @@ Appliance screenshots
 Each appliance should include at least 3 screenshots.
 
 
-.. _some assets: tree/master/images
+.. _some assets: https://github.com/turnkeylinux/artwork/tree/master/images
 .. _TurnKey Linux: http://www.turnkeylinux.org
 .. _TurnKey Hub: https://hub.turnkeylinux.org
 .. _TKL partner: http://www.turnkeylinux.org/partners
-.. _Gimp templates: tree/master/templates
+.. _Gimp templates: https://github.com/turnkeylinux/artwork/tree/master/templates
 .. _TKLDev: https://github.com/turnkeylinux-apps/tkldev
