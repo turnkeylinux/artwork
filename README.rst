@@ -27,10 +27,10 @@ Appliance logos
 - Naming convention: ``APPLIANCE/images/logo.png``
 - Each appliance logo should have a unique background color:
 
-    - Duplicate the layer called ``color``, and select it.
-    - In the menubar, select ``Colors`` then ``Colorize``.
-    - Experiment with different settings for Hue, Saturation and
-      Lightness.
+  - Duplicate the layer called ``color``, and select it.
+  - In the menubar, select ``Colors`` then ``Colorize``.
+  - Experiment with different settings for Hue, Saturation and
+    Lightness.
 
 When using a company or projects logo, please abide by their terms of
 use, guidelines and trademark policy when relevant.
@@ -48,8 +48,8 @@ Appliance screenshots
   underscores. It is used as the title on the TurnKey website, for
   example:
 
-    - Filename: ``wordpress/images/add_new_post.png``
-    - Title: ``Wordpress - Add new post``
+  - Filename: ``wordpress/images/add_new_post.png``
+  - Title: ``Wordpress - Add new post``
 
 Each appliance should include at least 3 screenshots.
 
