@@ -21,7 +21,7 @@ path=$1
 [ -e $path ] || fatal "no such path: '$path'"
 
 for app in $(ls $path); do
-    src="$path/$app/images/logo.png"
+    src="$path/$app/.art/logo.png"
     [ -e $src ] && cp $src $app.png
 done
 
