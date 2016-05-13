@@ -24,7 +24,7 @@ Appliance logos
 
 - Size: 106x111
 - Format: PNG (with transparent background)
-- Naming convention: ``APPLIANCE/images/logo.png``
+- Naming convention: ``APPLIANCE/.art/logo.png``
 - Each appliance logo should have a unique background color:
 
   - Duplicate the layer called ``color``, and select it.
@@ -42,7 +42,7 @@ Appliance screenshots
 
 - Format: PNG (with transparent background)
 
-- Naming convention: ``APPLIANCE/images/:screenshot_description.png``
+- Naming convention: ``APPLIANCE/.art/:screenshot_description.png``
 
 - The screenshot description should be in lower case and separated with
   underscores. It is used as the title on the TurnKey website, for
