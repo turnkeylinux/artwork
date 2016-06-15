@@ -51,6 +51,8 @@ Appliance screenshots
   - Filename: ``wordpress/images/add_new_post.png``
   - Title: ``Wordpress - Add new post``
 
+- For detailed instructions please see `docs/screenshots.rst`_
+
 Each appliance should include at least 3 screenshots.
 
 
@@ -59,4 +61,5 @@ Each appliance should include at least 3 screenshots.
 .. _TurnKey Hub: https://hub.turnkeylinux.org
 .. _TKL partner: http://www.turnkeylinux.org/partners
 .. _Gimp templates: https://github.com/turnkeylinux/artwork/tree/master/templates
-.. _TKLDev: https://github.com/turnkeylinux-apps/tkldev
+.. _TKLDev: https://github.com/turnkeylinux-apps/tkldevA
+.. _docs/screenshots.rst: docs/screenshots.rst
