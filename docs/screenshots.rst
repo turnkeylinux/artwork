@@ -11,6 +11,9 @@ results much easier. Also you will note that I am using a different
 resolution than that specified; that allows desktop style screenshots
 even if the page uses "responsive design". 
 
+Taking the screenshot
+---------------------
+
 1. Install `Window Resizer`_ Chrome extension.
 
 2. Click Window Resizer icon in the Chrome toolbar & select "edit
@@ -28,53 +31,56 @@ even if the page uses "responsive design".
 6. Take a screenshot of the current window. We'll assume this is called
    screenshot1.png.
 
-7. Open `screenshot.xcf` in GIMP
+Processing the screenshot
+-------------------------
 
-8. **File > Open as layers > screenshot1.png**
+1. Open `screenshot.xcf` in GIMP
 
-9. By default the screenshot will open in a new layer just above the
+2. **File > Open as layers > screenshot1.png**
+
+3. By default the screenshot will open in a new layer just above the
    "SCREENSHOT" layer. So long as it's below the "border shadow" layer
    that should be fine.
 
-9. **Layer > Scale layer...** and select a width to scale the screenshot 
+4. **Layer > Scale layer...** and select a width to scale the screenshot 
    to. This will probably take some trial and error. I suggest starting 
    with a width around 700 (the height will auto scale) and see how that 
    goes. If that's not right then just rescale until you get it right. 
    Use the "border shadow" layer as a guide to what will end up in your 
    finsihed screenshot.
 
-10. Select the "Move" tool (blue cross with arrow ends icon) to move the 
-    screenshot so it's in the right place. Make sure that the layer is 
-    selected in the layer view. Again use the "border shadow" layer as a 
-    guide.
+5. Select the "Move" tool (blue cross with arrow ends icon) to move the 
+   screenshot so it's in the right place. Make sure that the layer is 
+   selected in the layer view. Again use the "border shadow" layer as a 
+   guide.
 
-11. Make the top 3 layers invisible (click on the eye icon next to each
-    one in the layers panel - so it is no longer visible) so you can see 
-    the grey "SCREENSHOT" layer. Make sure that layer is also selected 
-    (i.e. click on it).
+6. Make the top 3 layers invisible (click on the eye icon next to each
+   one in the layers panel - so it is no longer visible) so you can see 
+   the grey "SCREENSHOT" layer. Make sure that layer is also selected 
+   (i.e. click on it).
 
-12. Using the "Fuzzy Select" tool (magic wand icon). Click anywhere on 
+7. Using the "Fuzzy Select" tool (magic wand icon). Click anywhere on 
     the grey area; it should now be selected around the edge of the grey.
 
-13. Make the screenshot1.png layer visible again and select it.
+8. Make the screenshot1.png layer visible again and select it.
 
-14. **Edit > Cut** (or Ctrl-X) and then **Edit > Paste as > New layer**
+9. **Edit > Cut** (or Ctrl-X) and then **Edit > Paste as > New layer**
 
-15. Make the "border shadow" layer visable again (so the eye icon is
+10. Make the "border shadow" layer visable again (so the eye icon is
     showing) and select the "Move" tool again. I find it easiest if you
     also make the "screenshot1.png" and "background" layers also
     invisible. With the "Clipboard" layer selected, move the screenshot 
     so that it is in the correct position. Use the "border shadow" and
     "SCREENSHOT" layers as a guide to the correct position.
 
-16. Make sure that the only visible layers are "border shadow",
+11. Make sure that the only visible layers are "border shadow",
     "reflection" and "Clipboard" (or whatever the new pasted layer is
     called).
 
-17. **File > Export** and save as filename.png as per naming
-    requirements.
+12. **File > Export** and save as screenshot_description.png as per 
+    naming requirements.
 
-18. Rinse and repeat for additional screenshots.
+13. Rinse and repeat for additional screenshots.
 
 .. _Google Chrome: https://www.google.com/chrome/browser/desktop/index.html
 .. _GIMP: https://www.gimp.org/
