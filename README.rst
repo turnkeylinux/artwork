@@ -16,8 +16,7 @@ something awesome, such as:
 Templates
 ---------
 
-`GIMP templates`_ are available for creating TurnKey appliance logos and
-screenshots to be included in new appliances developed with `TKLDev`_.
+`GIMP template`_ is available for creating TurnKey appliance logos.
 
 Appliance logos
 '''''''''''''''
@@ -38,7 +37,7 @@ use, guidelines and trademark policy when relevant.
 Appliance screenshots
 '''''''''''''''''''''
 
-- Size: 640x480
+- Size: 1368 x 768
 
 - Format: PNG (with transparent background)
 
