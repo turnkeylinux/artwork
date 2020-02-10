@@ -16,7 +16,7 @@ something awesome, such as:
 Templates
 ---------
 
-`GIMP template`_ is available for creating TurnKey appliance logos.
+`GIMP templates`_ are available for creating TurnKey appliance logos.
 
 Appliance logos
 '''''''''''''''
@@ -39,12 +39,12 @@ Appliance screenshots
 
 - Size: 1368 x 768
 
-- Format: PNG (with transparent background)
+- Format: PNG
 
 - Naming convention: ``APPLIANCE/.art/:screenshot_description.png``
 
 - The screenshot description should be in lower case and separated with
-  underscores. It is used as the title on the TurnKey website, for
+  underscores (no spaces). It is used as the title on the TurnKey website, for
   example:
 
   - Filename: ``wordpress/images/add_new_post.png``
