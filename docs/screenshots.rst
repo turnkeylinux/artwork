@@ -1,13 +1,14 @@
 Screenshots
 ===========
 
+These instructions assume using Linux so some adjustments may be required.
+
+Taking the screenshot in Chromium
+---------------------------------
+
 These instructions assume that you are using `Chromium`_ for 
 web browsing. It may work with other software but no guarantees 
-(and some adjustments may be required). Also
-I'm using Linux so again some adjustments may be required.
-
-Taking the screenshot
----------------------
+(and some adjustments may be required).
 
 1. Install `Window Resizer`_ Chrome extension.
 
@@ -28,6 +29,22 @@ Taking the screenshot
 9. Left Click the *Screenshot Capture* extension icon.
 
 10. Screenshot will be saved under your Chromium download folder
+
+
+Taking the screenshot in Firefox
+--------------------------------
+
+Firefox now natively supports resizing for screenshots.
+
+1. Navigate to Tools > Web Developer > Responsive Design Mode (Tools is the hamburger icon on the top right hand corner)
+
+2. Change "DPR" to 1:1
+
+3. Change resolution to 1368 x 768
+
+4. Left Click the Camera Icon in the top right hand corner of the webpage
+
+5. Screenshot will be saved under your Firefox download folder.
 
 
 .. _Chromium: https://chromium.woolyss.com/
